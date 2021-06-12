@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Hello React from Codesandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h2>Trying for branching</h2>
     </div>
   );
 }
